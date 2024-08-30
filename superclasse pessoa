@@ -1,0 +1,14 @@
+public class Pessoa{
+    public String nome;
+    public int idade;
+    public String cpf;
+
+    public Pessoa(String nome, String cpf, int idade){
+        this.nome = nome;
+        this.idade = idade;
+        this.cps = cpf;
+    }
+
+
+
+}
